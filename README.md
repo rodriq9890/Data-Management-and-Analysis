@@ -1,4 +1,4 @@
-bits.py concers several tests the professor gave us that our code should pass. 
+bits.py concers several tests (test_bits.py) the professor gave us that our code should pass. 
 
 books.ipynb involves reading public domain .txt files from the Gutenberg Project. I used Household Tales and The Great Gatsby to analyze their texts and find the most mentioned animals and most mentioned characters, respectively.
 

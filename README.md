@@ -1,5 +1,5 @@
 # Data-Management-and-Analysis
 CSCI-UA 479: Data Management and Analysis
 
-This is my work done for the course
-Work is divided into Homework assignments as well as projects
+In this homework, I scraped the information from various websites using JSON and HTML tools and making this information
+into usable and informative PANDAS dataframes.
